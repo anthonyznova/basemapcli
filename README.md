@@ -27,6 +27,8 @@ Format 2 (Center Point):
 2nd to last line is the imagery source (arc or sentinel)
 last line (optional) is a flag to export in UTM coord
 
+![call](assets/format3.png)
+
 ## Workflow
 
 ![flowchart](assets/flowchart.png)
