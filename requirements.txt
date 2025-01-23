@@ -1,0 +1,5 @@
+# requirements.txt
+aiohttp==3.9.3
+Pillow==10.3.0
+numpy==1.26.4
+gdal==3.8.4
