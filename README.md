@@ -2,19 +2,20 @@
 
 A command-line tool for downloading and georeferencing satellite imagery from ArcGIS or Sentinel-2.
 
-
-![flowchart](https://github.com/[anthonyznova]/[basemapcli]/assets/flowchart.png)
-
 ## Features
 
 - **Sources**:  
-  ✅ ArcGIS (high-res, WGS84)  
-  ✅ Sentinel-2 (10m res, Web Mercator)  
+  ✅ ArcGIS
+  ✅ Sentinel-2 
 - **Input Formats**:  
   1. Bounding box coordinates (NESW)  
   2. Center point + radius (km)  
-- **Output**: GeoTIFF + JPEG with embedded spatial data  
+- **Output**: GeoTIFF + JPEG  
 - **Auto-Zoom**: Maximizes resolution within 6×6 tile limit  
+
+## Workflow
+
+![flowchart](assets/flowchart.png)
 
 ## Installation
 
