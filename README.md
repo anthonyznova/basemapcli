@@ -23,7 +23,7 @@ N,48.147655,-80.027840  # Northmost lat, West lon
 E,48.147555,-79.995609  # Eastmost lat, East lon
 S,48.134930,-80.028662  # Southmost lat, West lon
 W,48.149551,-80.062613  # Westmost lat, East lon
-arc                     # Data source (arc/sentinel)
+arc                     # Data source (arc/sentinel)                 # Data source (arc/sentinel)
 
 Format 2 (Center Point):
 
