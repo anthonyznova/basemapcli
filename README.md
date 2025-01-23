@@ -24,7 +24,8 @@ Format 2 (Center Point):
 
 ![inputstyle2](assets/format2.png)
 
-last line is the imagery source flag
+2nd to last line is the imagery source (arc or sentinel)
+last line (optional) is a flag to export in UTM coord
 
 ## Workflow
 
